@@ -4,6 +4,10 @@
 ```
 yarn install
 ```
+if smoethink does't work use:
+```
+yarn add @vue/cli-service
+```
 
 ### Compiles and hot-reloads for development
 ```
